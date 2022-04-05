@@ -10,7 +10,7 @@
 
 
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Machine Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/daniel-toni-b35b14204/)
@@ -20,6 +20,6 @@
 ## Projects:
 My Data Science Projects:
 
-
+* **Profitable App Profiles for the App Store and Google Play Markets**: https://bit.ly/3J9g4sP
 
 ---

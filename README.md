@@ -21,5 +21,6 @@
 My Data Science Projects:
 
 * **Profitable App Profiles for the App Store and Google Play Markets**: https://bit.ly/3J9g4sP
+* **Airbnb Data Analysis**: https://github.com/Portoni/Airbnb-Data-Analysis
 
 ---

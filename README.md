@@ -24,5 +24,8 @@ My Data Science Projects:
 
 * **Profitable App Profiles for the App Store and Google Play Markets**: https://bit.ly/3J9g4sP
 * **Airbnb Data Analysis**: https://github.com/Portoni/Airbnb-Data-Analysis
+* **Exploring Hackers News Posts**: https://bit.ly/3OtYEdG
+* **Analyzing Used Car Listings on eBay Kleinanzeigen**: https://bit.ly/3HSLxRf
+* **Indicators of Heavy Traffic on I-94**: https://bit.ly/3bePcw5
 
 ---

@@ -7,7 +7,9 @@
 # Daniel Toni
 <sub>Data Science Student</sub>
 
+Mechanical Engineer passionate about data and artificial intelligence. With my degree I was able to improve my analytical thinking and solve problems quickly and with quality. Experienced in working with teams by participating in projects in the junior company within the university and in my internship, in addition to having business experience.
 
+Currently studying on the DataQuest platform to improve knowledge in Data Science and Machine Learning and taking the Data Science course at Sigmoidal Practice.
 
 
 **Background in:** Python, Machine Learning.

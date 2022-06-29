@@ -27,5 +27,5 @@ My Data Science Projects:
 * **Exploring Hackers News Posts**: https://bit.ly/3OtYEdG
 * **Analyzing Used Car Listings on eBay Kleinanzeigen**: https://bit.ly/3HSLxRf
 * **Indicators of Heavy Traffic on I-94**: https://bit.ly/3bePcw5
-
+* **Storytelling Data Visualization on Exchange Rates**: https://bit.ly/3I1vDE2
 ---

@@ -29,4 +29,5 @@ My Data Science Projects:
 * **Indicators of Heavy Traffic on I-94**: https://bit.ly/3bePcw5
 * **Storytelling Data Visualization on Exchange Rates**: https://bit.ly/3I1vDE2
 * **Clean and Analyze Employee Exit Surveys**: https://bit.ly/3cfxWaR
+* **Analyzing NYC High School Data**: https://bit.ly/3owOxd5
 ---

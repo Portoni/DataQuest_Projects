@@ -17,17 +17,3 @@ Currently studying on the DataQuest platform to improve knowledge in Data Scienc
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/daniel-toni-b35b14204/)
 * [Medium](https://medium.com/@danielportotoni)
-
-
-## Projects:
-My Data Science Projects:
-
-* **Profitable App Profiles for the App Store and Google Play Markets**: https://bit.ly/3J9g4sP
-* **Airbnb Data Analysis**: https://github.com/Portoni/Airbnb-Data-Analysis
-* **Exploring Hackers News Posts**: https://bit.ly/3OtYEdG
-* **Analyzing Used Car Listings on eBay Kleinanzeigen**: https://bit.ly/3HSLxRf
-* **Indicators of Heavy Traffic on I-94**: https://bit.ly/3bePcw5
-* **Storytelling Data Visualization on Exchange Rates**: https://bit.ly/3I1vDE2
-* **Clean and Analyze Employee Exit Surveys**: https://bit.ly/3cfxWaR
-* **Analyzing NYC High School Data**: https://bit.ly/3owOxd5
----
